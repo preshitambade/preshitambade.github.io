@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: PreshitAmbade
-  username               : &twitter
+twitter:
+  username               : PreshitAmbade &twitter
 facebook:
   username               :
   app_id                 :
