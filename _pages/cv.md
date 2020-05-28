@@ -65,4 +65,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Representative for College of Public Health on Graduate and Professional Student Council (GPSC), University of Arizona for the year 2015-16.
+* Planning Committee member for College of Public Health Poster Forum 2016
+* Student representative on College of Public Health’s Student Affairs Committee
