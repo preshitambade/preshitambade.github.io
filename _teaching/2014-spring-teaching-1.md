@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assitant-1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Arizona, Department of Community, Environment & Policy"
+Term: Spring2016
+location: "Tucson, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Performed Teaching Assistant duties for the undergraduate course US Healthcare System
 
 Heading 1
 ======
