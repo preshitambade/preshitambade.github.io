@@ -38,6 +38,7 @@ Internship
 * Summer 2019: Intern
   * Arizona Governor’s Office of Strategic Planning and Budgeting (AZ-OSPB)	Phoenix, Arizona
   * Duties included: Review of pharmaceutical procurement strategies
+  * Supervisor: Director, AZ-OSPB
 
 
 Skills
