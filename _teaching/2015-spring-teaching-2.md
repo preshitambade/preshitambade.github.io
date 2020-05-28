@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Distrct Level Master Trainer"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Rajnandgaon,Chhattisgarh, India"
+date: 2014-03-01
+location: "Rajnadgaon, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Designed and imparted several training sessions on rural development schemes
 
-Heading 1
+Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
 ======
 
-Heading 2
+Chhattisgarh State Skill Development Mission (CSSDM)
 ======
 
-Heading 3
+Sansad Adarsh Gram Yojana (SAGY)
 ======
