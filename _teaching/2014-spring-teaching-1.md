@@ -8,7 +8,7 @@ Date: 2016-01-01
 location: "Tucson, USA"
 ---
 
-Performed Teaching Assistant duties for the undergraduate course US Healthcare System
+Performed Teaching Assistant duties for the undergraduate and graduate courses and delivered guest lectures
 
 US Healthcare System
 ======
