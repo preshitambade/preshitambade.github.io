@@ -9,12 +9,3 @@ location: "Tucson, USA"
 ---
 
 Performed Teaching Assistant duties for the undergraduate course US Healthcare System
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
