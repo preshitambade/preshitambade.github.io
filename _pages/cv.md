@@ -42,8 +42,10 @@ Internship
 
 Skills
 ======
-* Technical: Biostatics | Stata | R | SPSS | GitHub | EndNote | DHS Surveys | World Bank HNP Dataset
-* Essential: Secondary Data Analysis | Economic Evaluations in Healthcare | Program Management | Data Collection | Data Analysis | Quantitative Research | Healthcare Management | Communication | Collaboration | Creative Thinking | Team Building | Graduate Teaching
+* Technical: 
+  * Biostatics | Stata | R | SPSS | GitHub | EndNote | DHS Surveys | World Bank HNP Dataset
+* Essential: 
+  * Secondary Data Analysis | Economic Evaluations in Healthcare | Program Management | Data Collection | Data Analysis | Quantitative Research | Healthcare Management | Communication | Collaboration | Creative Thinking | Team Building | Graduate Teaching
 
 Publications
 ======
