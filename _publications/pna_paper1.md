@@ -7,7 +7,7 @@ level.'
 date: 2019-10-08
 venue: 'The International journal of risk & safety in medicine'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/31282430/'
-citation: 'Ambade, P.N., et al. (2019). &quot;Why health policies should be transnational: A case for East Asia Pacific countries&quot; <i>The International journal of risk & safety in medicine</i>. 30(2).'
+citation: 'Ambade, P.N., et al. (2019). &quot;Why health policies should be transnational: A case for East Asia Pacific countries&quot; <i>The International journal of risk & safety in medicine</i>. 30(2)101.'
 ---
 
 This paper argues that health policies should transcend national boundaries yet should not reach the supranational
