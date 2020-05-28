@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Ayurved Medicine and Surgery (BAMS), Maharashtra University of Health Sciences (MUHS), Nashik-India, 2009
+* Master of Health Administration (MHA), Tata Institute of Social Sciences, Mumbai-India, 2012
+* Certificate in College Teaching, University of Arizona, USA, 2018
+* Doctor of Public Health (DrPH), University of Arizona, USA, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2018 – December 2019: Research Technician
+  * Center for Population Science & Discovery, University of Arizona
+  * Duties included: Created databases, statastical analysis, literature reviews, designing and modifying data collection instruments 
+  * Supervisor: Dr. Elizabeth Calhoun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2012 – June 2015: Prime Minister’s Rural Development Fellow (PMRDF)
+  * CAPART, Ministry of Rural Development, Government of India
+  * Duties included: •	Served as Assistant Director for Chhattisgarh State Skill Development Authority (CSSDA), monitoring and evaluation of government schemes, designing and implementation of action research projects, trainings  
+  * Supervisor: District Collector and Magistrate, Rajnandgaon, Chhattisgarh, India
   
+* June 2009 – May 2010: Assitant Medical Officer
+  * Raodeo Nursing Home, Dwaraka Polyclinc
+  * Duties included: casualty/trauma unit management, general outpatient department
+  * Supervisor: Dr. Raodeo, Dr. Borse
+
+Internship
+======
+* Summer 2019: Intern
+  * Arizona Governor’s Office of Strategic Planning and Budgeting (AZ-OSPB)	Phoenix, Arizona
+  * Duties included: Review of pharmaceutical procurement strategies
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical: Biostatics | Stata | R | SPSS | GitHub | EndNote | DHS Surveys | World Bank HNP Dataset
+* Essential: Secondary Data Analysis | Economic Evaluations in Healthcare | Program Management | Data Collection | Data Analysis | Quantitative Research | Healthcare Management | Communication | Collaboration | Creative Thinking | Team Building | Graduate Teaching
 
 Publications
 ======
