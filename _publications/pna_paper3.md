@@ -10,5 +10,3 @@ citation: 'Ambade P.N. (2020). &quot;Explaining caste-based disparities in enrol
 In this paper I have decomposed the differences in health insurance enrollments under India's national health insurance scheme (RSBY) for various caste categories
 
 Available for download upon request.
-
-Recommended citation: Ambade P.N. (2020). "Explaining caste-based disparities in enrollment for national health insurance program (RSBY) in India: A decomposition analysis" <i>Working Paper</i>.
