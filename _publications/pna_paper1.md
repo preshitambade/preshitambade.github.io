@@ -1,7 +1,7 @@
 ---
 title: "Why health policies should be transnational: A case for East Asia Pacific countries"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/pna_paper1
 excerpt: 'This paper argues that health policies should transcend national boundaries yet should not reach the supranational
 level.'
 date: 2019-10-08
